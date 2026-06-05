@@ -1,9 +1,9 @@
 # 🌊 Nodewave Task Management System API
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green.svg)](https://nodejs.org)
 [![Hono](https://img.shields.io/badge/Hono-v4-orange.svg)](https://hono.dev)
-[![Prisma](https://img.shields.io/badge/Prisma-ORM-blue.svg)](https://www.prisma.io/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-blue.svg ](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-336791.svg)](https://neon.tech/)
-> **Live Repository:** [https://github.com/akmalabdilah/nodewave-backend](https://github.com/akmalabdilah/nodewave-backend)
+> **Live Repository:** [https://github.com/akmalabdilah/nodewave-backend](https://github.com/akmalabdilah/nodewave-backend)[https://github.com/akmalabdilah/nodewave-frontend.git](https://github.com/akmalabdilah/nodewave-frontend.git)
 Sistem *Operational Backbone* berskala enterprise untuk mengelola alur kerja kolaboratif (Product Management, UI/UX, Frontend, dan Backend) dengan dukungan visibilitas data sisi Klien. 
 Backend API ini tidak hanya beroperasi sebagai sekadar sistem CRUD (Create, Read, Update, Delete) biasa. Sistem ini dirancang khusus untuk menangani kompleksitas tinggi seperti **State-Based Permissions**, **Inter-Task Dependencies**, dan pencegahan **Data Concurrency Conflicts** di mana banyak *actor* (user) dapat memanipulasi data yang sama dalam waktu bersamaan.
 ---
